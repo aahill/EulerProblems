@@ -50,7 +50,7 @@ public class EulerProblem1 {
          * b = the last number in the series
          * n = the number of terms in the series
          * 
-         * using this formula, we can simply call a local function to find the
+         * using this formula, we can simply call a method to find the
          * arithmetic series, multiply it by our greatest common factor, and
          * sum them together
          */
